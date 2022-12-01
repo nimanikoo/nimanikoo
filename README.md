@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on ** Backend / Microservice Project**
 
-- 💬 Ask me about **Backend Development / C# / .Net Core / Software Development / Api**
+- 💬 Ask me about ** C# / .Net Core / Backend Development / Api / Software Development**
 
-- 📫 How to reach me **nimanikoo.dev@gmail.com**
+- 📫 How to reach me **nimanikoo8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
