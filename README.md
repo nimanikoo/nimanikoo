@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ** Backend / Microservice Project**
 
-- 💬 Ask me about ** C# / .Net Core / Backend Development / Api / Software Development**
+- 💬 Ask me about ** C# / .NET Core / Backend Development / Api / Software Development**
 
 - 📫 How to reach me **nimanikoo8@gmail.com**
 
