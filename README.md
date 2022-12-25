@@ -7,11 +7,11 @@
 - 👨🏻‍💻 Who i am ? I'm Computer Engineer & Back-End Developer who Focused on .NET platform.
 - 💡 Currently working on a Back-End .NET Core Projects.
 - 📚 Eager to Learning...
-- 🎮 Gamer and Karate trainer
-- 💬 Feel free to reach out, happy to help
+- 🎮 Gamer and Karate trainer 🥋 "Osu"
+- 💬 You can ask me about: Back-End Development / C# / .NET Core / Software Development and WebApi
 
 ## 🛠️ Languages & Tools and Frameworks
-#### Languages
+#### Languages and Frameworks
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
