@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 👨🏻‍💻 Who i am ? I'm Computer Engineer & Back-End Developer who Focused on .NET platform.
 - 💡 Currently working on a Back-End .NET Core Projects.
-- 📚 Eager to Learning...
+- 📚 Eager to Learn...
 - 🎮 Gamer and Karate trainer 🥋 "Osu"
 - 💬 You can ask me about: Back-End Development / C# / .NET Core / Software Development and WebApi
 
