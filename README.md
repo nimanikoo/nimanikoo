@@ -4,11 +4,11 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=nimanikoo&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=blue"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/nimanikoo/nimanikoo?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-- 👨🏻‍💻 Who i am ? I'm Software Engineer & Back-End Developer who Focused on .NET platform.
-- 💡 Currently working on a Back-End .NET Core Projects.
+- 👨🏻‍💻 Who i am ? I'm passionate Software Engineer & Back-End Developer with a strong focus on the .NET platform.
+- 💡 Currently working on a .NET Core Projects with Microservices architecture.
 - 📚 Eager to Learn...
 - 🎮 Gamer and Karate trainer 🥋 "Osu"
-- 💬 You can ask me about: Back-End Development / C# / .NET Core / Software Development and WebApi
+- 💬 You can ask me about: Back-End Development / C# / .NET Core / Software Development / Microservices and WebApi
 
 ## 🛠️ Languages & Tools and Frameworks
 #### Languages and Frameworks
