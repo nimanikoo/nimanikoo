@@ -5,7 +5,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/nimanikoo/nimanikoo?logo=markdown&label=LAST+UPDATE&color=blue&style=flat">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 👨🏻‍💻 Who i am ? I'm passionate Software Engineer & Back-End Developer with a strong focus on the .NET platform.
-- 💡 Currently working on a .NET Core Projects with Microservices architecture.
+- 💡 Currently working on a .NET Projects with Microservices architecture.
 - 📚 Eager to Learn...
 - 🎮 Gamer and Karate trainer 🥋 "Osu"
 - 💬 You can ask me about: Back-End Development / C# / .NET / Software Development / Microservices / Python and WebApi
