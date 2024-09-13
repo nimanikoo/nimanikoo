@@ -8,7 +8,7 @@
 - 💡 Currently working on a .NET Core Projects with Microservices architecture.
 - 📚 Eager to Learn...
 - 🎮 Gamer and Karate trainer 🥋 "Osu"
-- 💬 You can ask me about: Back-End Development / C# / .NET Core / Software Development / Microservices and WebApi
+- 💬 You can ask me about: Back-End Development / C# / .NET / Software Development / Microservices / Python and WebApi
 
 ## 🛠️ Languages & Tools and Frameworks
 #### Languages and Frameworks with Tools
